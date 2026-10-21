@@ -1,194 +1,207 @@
-🌱 EcoFood — Stop Food Waste
 
-A Food-Sharing Project to Reduce Food Waste
+# 🌱 EcoFood — Stop Food Waste
 
-Less waste. More food. A better tomorrow.
+## 📌 Project Description
 
-📌 1. Project Description
+EcoFood is a food-sharing project that helps reduce food waste and support people who need food.
 
-EcoFood is a project that helps reduce food waste. Many families, restaurants, and supermarkets throw away food that is still good to eat. At the same time, many people do not have enough food.
+Many families, restaurants, and supermarkets throw away food that is still safe to eat. At the same time, some people do not have enough food.
 
-Our project connects people and businesses that have extra food with people who need it. They can share or donate food instead of throwing it away.
+EcoFood proposes a mobile app or website where people and businesses can share extra food instead of throwing it away.
 
-🚨 2. The Problem
+**Our slogan: Less waste. More food. A better tomorrow.**
 
-Food waste is a serious problem in our society.
+---
 
-* Many people throw away food every day.
-* Food waste creates pollution.
-* Families lose money when they waste food.
-* Some people do not have enough food to eat.
+## 🚨 1. The Problem
 
-We need a simple solution to reduce food waste and help our communities.
+Food waste is a serious problem in many communities.
 
-🎯 3. Main Objective
+- People throw away food every day.
+- Food waste creates environmental problems.
+- Families lose money when they waste food.
+- Some people do not have enough food to eat.
 
-The main objective of EcoFood is to reduce food waste and help people who need food by creating a system for sharing extra food.
+We need a simple solution to connect extra food with people who need it.
 
-Specific Objectives
+## 🎯 2. Main Objective
 
-* Reduce the amount of food thrown away.
-* Help families with limited resources.
-* Connect restaurants and supermarkets with people who need food.
-* Teach people about responsible food consumption.
-* Protect the environment.
+The main objective is to reduce food waste and help people who need food by creating a simple food-sharing system.
 
-👥 4. Target Audience
+### Specific Objectives
+
+- Connect families, restaurants, and supermarkets with people who need food.
+- Share extra food before it is thrown away.
+- Teach people about responsible food consumption.
+- Measure the amount of food shared during the first month.
+
+---
+
+## 👥 3. Target Audience
 
 EcoFood is designed for:
 
-* Families
-* Students
-* Restaurants
-* Supermarkets
-* Volunteers
-* People with limited resources
+- Families
+- Students
+- Restaurants
+- Supermarkets
+- Volunteers
+- People with limited resources
 
-💡 5. Proposed Solution
+The project will start in one neighborhood and may expand to other communities in the future.
 
-We will create a mobile app or website where people can offer extra food.
+---
 
-Users can publish information about the available food, its quantity, and the collection place. Other people can see the offers and arrange a time to collect the food.
+## 💡 4. Proposed Solution
 
-Restaurants and supermarkets can also donate food that is safe to eat.
+We will create a mobile app or website where people can publish information about extra food.
 
-🧰 6. Materials and Resources
+Users will be able to:
 
-The project needs the following resources:
+- Publish available food.
+- See food donations in their area.
+- Contact people who offer food.
+- Arrange a time and place to collect it.
+- Help reduce food waste in their community.
 
-* A mobile app or website.
-* Volunteers to organize donations.
-* Restaurants and supermarkets as partners.
-* Clean food containers and bags.
-* Social media accounts for advertising.
-* Transportation for food collection when necessary.
+Restaurants and supermarkets can also donate extra food that is safe to eat.
 
-⚙️ 7. How It Works
+---
+
+## 🧰 5. Materials and Resources
+
+| Resource | Purpose |
+|---|---|
+| Mobile app or website | Show available food and donation information. |
+| Volunteers | Organize donations and help users. |
+| Restaurants and supermarkets | Provide extra food. |
+| Food containers and bags | Transport food safely. |
+| Social media and posters | Promote the project. |
+
+---
+
+## ⚙️ 6. How It Works
 
 1. A family or restaurant has extra food.
-2. The donor publishes the food offer on EcoFood.
+2. The donor publishes the food on the EcoFood platform.
 3. A person who needs food sees the offer.
-4. Both sides agree on a collection time and place.
-5. The person collects the food.
-6. The team records the donation.
+4. Both people agree on a collection time and place.
+5. The food is shared instead of wasted.
 
-Important: Only food that is safe to eat can be shared.
+**Important:** All donated food must be safe to eat and stored correctly.
 
-📅 8. Implementation Plan
+---
 
-Week 1: Research
+## 📅 7. Implementation Plan
 
-* Research the food waste problem in the community.
-* Talk to families and possible users.
-* Identify local restaurants and supermarkets.
+The first version of EcoFood will be tested over four weeks.
 
-Week 2: Design
+| Week | Activities | Expected Result |
+|---|---|---|
+| Week 1 | Research food waste in the community. | Understand the problem. |
+| Week 2 | Design the platform and contact partners. | Prepare the first system. |
+| Week 3 | Start sharing food in one neighborhood. | Make the first donations. |
+| Week 4 | Collect feedback and review results. | Improve the project. |
 
-* Design a simple app or website.
-* Contact restaurants and possible partners.
-* Prepare advertising materials.
+---
 
-Week 3: Start the Project
+## 💰 8. Estimated Budget
 
-* Start a small food-sharing program in one neighborhood.
-* Receive the first food donations.
-* Connect donors with people who need food.
+| Material or Service | Estimated Cost |
+|---|---:|
+| App or website design | $50 |
+| Food containers | $30 |
+| Advertising | $20 |
+| Transportation | $50 |
+| **Total** | **$150** |
 
-Week 4: Evaluation
+*Note: These are example costs for a small pilot project. The real budget may change depending on the resources available.*
 
-* Count the food donations.
-* Ask users for their opinions.
-* Identify problems and improve the project.
+---
 
-💰 9. Estimated Budget
+## 🌍 9. Expected Results
 
-Material or Service	Estimated Cost
-App or website design	$50
-Food containers	$30
-Advertising	$20
-Transportation	$50
-Total	$150
+We expect EcoFood to:
 
-Note: These are example costs for a small pilot project. Actual costs may be different.
+- Reduce the amount of wasted food.
+- Help more families receive food.
+- Help people save money.
+- Encourage responsible consumption.
+- Reduce the environmental impact of food waste.
+- Build a stronger and more supportive community.
 
-📈 10. Expected Results
+---
 
-We expect EcoFood to create positive changes in the community.
+## 📊 10. How We Will Measure Success
 
-* Less food will be wasted.
-* More families will receive food.
-* People will save money.
-* The community will become more responsible.
-* Pollution from wasted food may decrease.
+We will measure the results using these indicators:
 
-📊 11. How to Measure Success
+| Indicator | What We Will Measure |
+|---|---|
+| Food donations | Number of donations each week. |
+| People helped | Number of people or families receiving food. |
+| Food saved | Amount of food shared instead of thrown away. |
+| Community participation | Number of active donors and volunteers. |
+| User feedback | Opinions and suggestions from participants. |
 
-We will measure the success of the project by counting:
+These results will help us understand if the project is working.
 
-* The number of food donations.
-* The number of people helped.
-* The amount of food shared.
-* The number of restaurants and supermarkets participating.
-* Feedback from users.
+---
 
-We will review these results every month.
+## ⚠️ 11. Possible Problems and Solutions
 
-⚠️ 12. Possible Problems and Solutions
+| Problem | Solution |
+|---|---|
+| Not enough food donations | Contact more restaurants, shops, and families. |
+| People do not know about EcoFood | Use social media, posters, and school announcements. |
+| Food may not be safe | Check food quality, storage, and expiration dates. |
+| Transportation is expensive | Organize nearby collection points. |
+| Few people use the platform | Make the platform simple and easy to use. |
 
-Problem	Solution
-Not enough food donations	Contact more restaurants and supermarkets.
-People do not know about EcoFood	Use social media, posters, and announcements.
-Food may be unsafe	Check food quality, storage, and expiration dates.
-Transportation is expensive	Organize nearby collection points.
-Few people use the app	Make the app simple and easy to use.
+---
 
-🌍 13. Environmental and Social Impact
+## ✅ 12. Conclusion
 
-EcoFood can help both people and the environment.
+EcoFood is a simple project that can make a positive difference in people's lives.
 
-By sharing extra food, we can reduce waste and support families. The project can also teach people to use food responsibly and care about others.
+It connects people who have extra food with people who need it. It helps reduce food waste, supports families, and protects the environment.
 
-Our goal is to build a community where people help each other.
+We believe that sharing food is better than wasting it.
 
-🏁 14. Conclusion
+**Together, we can make a difference!**
 
-EcoFood is a simple project that can make a big difference. It connects people who have extra food with people who need it.
+---
 
-The project helps families, reduces food waste, saves money, and protects the environment.
-
-We believe that sharing food is better than throwing it away.
-
-Together, we can make a difference!
-
-🎤 15. Short Presentation
+## 🎤 Short Presentation
 
 Good morning, everyone.
 
 Today, I want to present my project called EcoFood.
 
-The main problem is food waste. Many people throw away food every day, but other people do not have enough food to eat.
+The main problem is food waste. Many people throw away food, but other people do not have enough to eat.
 
-Our solution is a food-sharing app. Families, restaurants, and supermarkets can donate extra food to people who need it.
+Our solution is a food-sharing app. Families, restaurants, and supermarkets can offer extra food to people who need it.
 
-First, we will research the problem. Then, we will contact partners and start a small food-sharing program in one neighborhood.
+First, we will research the problem. Then, we will contact partners and start a small program in one neighborhood.
 
 Our estimated budget is 150 dollars, and the first test will take four weeks.
 
 We expect to reduce food waste, help families, and protect the environment.
 
-In conclusion, EcoFood can improve people’s lives. We can make our community better by sharing food instead of wasting it.
+In conclusion, EcoFood can improve people's lives. We can make our community better by sharing food instead of wasting it.
 
-Thank you for listening!
+Thank you for listening.
 
-⸻
+---
 
-📌 Project Summary
+## 🚀 Future Improvements
 
-* Project Name: EcoFood
-* Main Problem: Food waste
-* Proposed Solution: A food-sharing app or website
-* Target Audience: Families, students, restaurants, and supermarkets
-* Duration: 4 weeks
-* Estimated Budget: $150
-* Main Goal: Reduce food waste and help people
-* Language Level: B1 English
+In the future, EcoFood could include:
+
+- A map showing nearby food donations.
+- Notifications when new food is available.
+- User accounts for donors and volunteers.
+- Partnerships with more restaurants and supermarkets.
+- Monthly reports about food saved.
+
+These improvements could help EcoFood reach more people and create a bigger impact.
